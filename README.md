@@ -5,12 +5,18 @@
 - <b>C# Programming</b>
 - <b>Unity</b>
 
-    <a href="https://store.steampowered.com/app/4244740/Bugmageddon/">Published the game Bugmageddon to Steam</a>
+
+  <img alt="Bugmageddon | Header" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4244740/c888fc9244249191c6aa86ada079aa7fe6839ddc/header.jpg?t=1783674646"/>
+    
+  <a href="https://store.steampowered.com/app/4244740/Bugmageddon/">Published the game Bugmageddon to Steam</a>
+
+  I was the game director and lead programmer for the project.
+
 - <b>Blender</b>
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="WilliamWasenius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/william-wasenius-34b7ba249/
 
