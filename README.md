@@ -9,6 +9,10 @@
   Bugmageddon was a university portfolio project that evolved to become a standalone published game.
   My roles were both the project lead and the head programmer of the game. I also took care of the entire publishing process of the game, uploading the builds to steam and setting up the entire steam page.
 
+  Here is some example code and code architecture for the games player, with explanation to how it works:
+
+  <a href="https://github.com/williamwasenius/Public-Code">Repo Link</a>
+
 <img alt="Bloodbloom | Header" src="https://img.itch.zone/aW1nLzIxMjUwMTI1LnBuZw==/original/IZfuFz.png" width="400" />
 
    <a href="https://bloodbloom.itch.io/bloodbloom">Published Bloodbloom to Itch.io</a>
