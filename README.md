@@ -1,4 +1,8 @@
-<h1>Hi, I'm William! <br/><a href="https://github.com/williamwasenius/williamwasenius">I like to make games!</a></h1>
+<h1>Hi, I'm William!</h1>
+
+<a href="https://www.canva.com/design/DAGc2IQsCYc/beXMuqgL87qGbYMb9Uph5Q/view"><b>My CV</b></a>
+
+<a href="https://store.steampowered.com/app/4244740/Bugmageddon/"><b>Bugmageddon Game</b></a>
 
 <h2>Software Development Projects:</h2>
 
