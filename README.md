@@ -1,7 +1,5 @@
 <h1>Hi, I'm William!</h1>
 
-<a href="https://www.canva.com/design/DAGc2IQsCYc/beXMuqgL87qGbYMb9Uph5Q/view"><b>My CV</b></a>
-
 <a href="https://store.steampowered.com/app/4244740/Bugmageddon/"><b>Bugmageddon Game</b></a>
 
 <h2>Software Development Projects:</h2>
@@ -17,9 +15,8 @@
 
 <a href="https://www.linkedin.com/in/william-wasenius-34b7ba249/">Linkedin</a>
 
-<!-- [<img align="left" alt="WilliamWasenius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/william-wasenius-34b7ba249/
+<!-- 
+<a href="https://www.canva.com/design/DAGc2IQsCYc/beXMuqgL87qGbYMb9Uph5Q/view"><b>My CV</b></a>
 
 <!--
 **is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
