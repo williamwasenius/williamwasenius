@@ -6,18 +6,12 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>C# Programming</b>
-- <b>Unity</b>
-
-
   <img alt="Bugmageddon | Header" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4244740/c888fc9244249191c6aa86ada079aa7fe6839ddc/header.jpg?t=1783674646"/>
     
   <a href="https://store.steampowered.com/app/4244740/Bugmageddon/">Published the game Bugmageddon to Steam</a>
 
   Bugmageddon was a university portfolio project that evolved to become a standalone published game.
   My roles were both the project lead and the head programmer of the game. I also took care of the entire publishing process of the game, uploading the builds to steam and setting up the entire steam page.
-
-- <b>Blender</b>
 
 <h2> Connect with me:</h2>
 
