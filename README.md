@@ -11,7 +11,7 @@
   <a href="https://store.steampowered.com/app/4244740/Bugmageddon/">Published the game Bugmageddon to Steam</a>
 
   Bugmageddon was a university portfolio project that evolved to become a standalone published game.
-  I was both the project lead and the head programmer of the game. I also took care of the entire publishing process of the game, uploading the builds to steam and setting up the entire steam page.
+  My roles were both the project lead and the head programmer of the game. I also took care of the entire publishing process of the game, uploading the builds to steam and setting up the entire steam page.
 
 - <b>Blender</b>
 
