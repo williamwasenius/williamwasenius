@@ -10,13 +10,16 @@
     
   <a href="https://store.steampowered.com/app/4244740/Bugmageddon/">Published the game Bugmageddon to Steam</a>
 
-  I was the game director and lead programmer for the project.
+  Bugmageddon was a university portfolio project that evolved to become a standalone published game.
+  I was both the project lead and the head programmer of the game. I also took care of the entire publishing process of the game, uploading the builds to steam and setting up the entire steam page.
 
 - <b>Blender</b>
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="WilliamWasenius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/william-wasenius-34b7ba249/">Linkedin</a>
+
+<!-- [<img align="left" alt="WilliamWasenius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/william-wasenius-34b7ba249/
 
