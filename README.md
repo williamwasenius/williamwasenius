@@ -1,7 +1,5 @@
 <h1>Hi, I'm William!</h1>
 
-<a href="https://store.steampowered.com/app/4244740/Bugmageddon/"><b>Bugmageddon Game</b></a>
-
 <h2>Software Development Projects:</h2>
 
   <img alt="Bugmageddon | Header" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4244740/c888fc9244249191c6aa86ada079aa7fe6839ddc/header.jpg?t=1783674646"/>
