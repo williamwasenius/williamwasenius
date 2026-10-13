@@ -4,7 +4,8 @@
 
 - <b>C# Programming</b>
 - <b>Unity</b>
-- <br/><a href="https://store.steampowered.com/app/4244740/Bugmageddon/">Published the game Bugmageddon to Steam</a>
+
+    <a href="https://store.steampowered.com/app/4244740/Bugmageddon/">Published the game Bugmageddon to Steam</a>
 - <b>Blender</b>
 
 <h2> Connect with me:</h2>
